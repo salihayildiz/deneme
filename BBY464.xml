@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<CelebrityPhotos>
+
 <Photograph>
 <Title>Phan Thi Kim Phuc</Title>
 <Photographer>Nick Ut</Photographer>
@@ -250,3 +252,5 @@
 <Year>2001</Year>
 <Subject>Street Photography, Color, Art, Society, Conceptual, Consumption culture</Subject>
 </Photograph>
+
+<CelebrityPhotos>
